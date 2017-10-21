@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:100px 0 0;
+    background: #cdcdcd;
+}
+form{
+    text-align: center;
+}
+img{
+    width: 450px;
+}

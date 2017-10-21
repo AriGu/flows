@@ -1,0 +1,17 @@
+.index-wrapper{
+    background: #528B8B;
+    height: 900px;
+}
+
+.index-logo{
+    width:100px;
+}
+p{
+    text-align: left;
+}
+strong{
+    font-size: 1.1em;
+}
+.jumbotron{
+    margin-top: 75px;
+}

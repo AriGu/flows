@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    font-size: 16px;
+}
+body{
+    overflow-y: scroll;    
+}
+.navbar{
+    border-radius: 0; 
+    /* padding-left:41%; */
+    margin: 0;
+    width: 100%;
+    position: fixed;    
+}
+.navbar-right{
+    padding-right: 30px;
+}
+#dropdown1:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+#dropdown2:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+#dropdown3:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+.clear{
+    height: 10px;
+    width: 100%;
+}
+

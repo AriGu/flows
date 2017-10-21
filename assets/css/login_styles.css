@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding-top:100px;
+    background: #528B8B;    
+}
+form{
+    text-align: center;
+    margin-top: 20px;
+}
+.login_box{
+     width: 400px;
+     height: 400px;
+     background: #CDC5BF;
+     margin: auto;
+     padding:30px 45px 0;
+}
+.log_logo{
+    width:300px;
+}
+.form-control{
+    border-radius: 0;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.btn{
+    background: #00008B;
+    margin-top: 10px;
+}
+.email-error{
+    color:red;
+}

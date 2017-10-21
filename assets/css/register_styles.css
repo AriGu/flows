@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding-top:100px;
+    background: #528B8B; 
+    font-size: 16px;   
+}
+form{
+    text-align: center;
+}
+.reg_box{
+     width: 500px;
+     height: 550px;
+     background: #CDC5BF;
+     margin: auto;
+     padding:20px 50px 0;
+}
+.reg_logo{
+     width:300px;
+}
+.page-header{
+     border: 0;
+}
+.form-control{
+     border-radius:0;
+     height: 40px;
+}
+.btn{
+     margin: 10px 0 20px;
+}
+.already-registered{    
+    color: blue;
+    font-size: 1.1em;
+}
